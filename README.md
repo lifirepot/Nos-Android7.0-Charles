@@ -2,7 +2,7 @@
 
 #### 一、添加SSL证书
 
-![1](https://github.com/lifirepot/Nos-s-Android7.0-Charles/blob/main/Screencap/CharlesCert/1.png)
+![1](https://github.com/lifirepot/Nos-s-Android7.0-Charles/main/Screencap/CharlesCert/1.png)
 
 ![2](https://github.com/lifirepot/Nos-s-Android7.0-Charles/blob/main/Screencap/CharlesCert/2.png)
 
